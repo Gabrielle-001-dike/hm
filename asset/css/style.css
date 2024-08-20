@@ -1,0 +1,35 @@
+.navbar input::placeholder{
+    color: gray;
+}
+
+.first-slider .carousel-indicators li{
+    list-style: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.first-slider img{
+    height: 32rem;
+    object-fit: cover;
+    object-position: center;
+    filter:blur(4px)
+}
+
+.first-slider .carousel-caption{
+    text-align: left;
+    bottom: 20%;
+}
+
+
+
+
+/* footer */
+.footer{
+    display: grid;
+    grid-template-columns: repeat(3);
+}
+.footer .wrapper{
+    box-sizing: content-box;
+    width: 400px;
+}

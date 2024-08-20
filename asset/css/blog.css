@@ -1,0 +1,16 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.her{
+    background-image: url(../images/peach\ car\ wheels.jpg);
+    font-size: small;
+}
+
+.her>h1{
+    font-size: small;
+}
+
+.wrapper>img{
+    height: 20%;
+    
+}
